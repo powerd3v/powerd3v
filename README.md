@@ -5,7 +5,7 @@
 - Telegram: https://t.me/PowerDeveloper
 - My Channel:https://t.me/GrayHatCsharp
 - Follow Me On Instagram: https://instagram.com/power_developer
-
+- My Email: powerd3v@gmail.com
 
 <!---
 powerd3v/powerd3v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
