@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Security
 - 🌱 I’m currently learning C# Language
 - 📫 How to reach me ?
-- Telegram: https://t.me/onlineprogrammer
+- Telegram: https://t.me/PowerDeveloper
 - My Channel:https://t.me/GrayHatCsharp
 - Follow Me On Instagram: https://instagram.com/power_developer
 
