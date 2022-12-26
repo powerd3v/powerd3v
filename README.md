@@ -2,9 +2,9 @@
 - 👀 I’m interested in Programming and Security
 - 🌱 I’m currently learning C# Language
 - 📫 How to reach me ?
-- Telegram: https://t.me/PowerDeveloper
+- Telegram: https://t.me/Norouzi_dgs
 - My Channel:https://t.me/GrayHatCsharp
-- Follow Me On Instagram: https://instagram.com/power_developer
+- Follow Me On Instagram: https://instagram.com/norouzi.d.g.s
 - My Email: powerd3v@gmail.com
 
 <!---
