@@ -1,11 +1,45 @@
 
-# PowerD3V
-Hi, I'm **PowerD3V**, a Software engineer and Web developer. I'm skilled in software development and web technologies. I'm always looking to solve complex development problems with creative solutions. 
+# powerd3v
 
-My current focus is in web development with React and React Native. I've been exploring other technologies such as Node.js, GraphQL, and AWS. I'm also leveraging unit testing and Agile development practices to ensure a high quality of product. 
+![GitHub followers](https://img.shields.io/github/followers/powerd3v?label=Follow&style=social) 
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/powerd3v/) 
+![GitHub stars](https://img.shields.io/github/stars/powerd3v/yelpcamp.svg?style=social) 
+![GitHub forks](https://img.shields.io/github/forks/powerd3v/powerd3v.svg?style=social) 
+![GitHub watchers](https://img.shields.io/github/watchers/powerd3v/yelpcamp.svg?style=social)
 
-My mission is to stay up to date with trends while leveraging the latest technologies and development practices to bring fresh ideas to the table. I believe collaboration and communication are the key to success. 
+I'm powerd3v, a passionate Software Engineer with more than 5 years of experience specializing in web design, development and mobile applications. I'm currently in pursuit of new opportunities to explore web development in a professional setting. 
 
-I have a passion for exploring new technologies and processes. Creating and maintaining high-quality products is my main focus. With software development and web development, I'm constantly finding ways to improve the customer experience and find innovative solutions for complex problems. 
+My skills and experience include:
+- *Frontend:* HTML/CSS, JavaScript, React, Svelte
+- *Backend:* MongoDB, Node.js, PHP, Java
+- *Mobile:* Android and iOS
+- *Design:* Photoshop, Illustrator
+- *Version Control:* Git, Mercurial
 
-I am available for hire for web or software projects and am always open to talking about new opportunities. You can read some of my recent projects on my GitHub or take a look at some of my code samples. If you're interested in working with me, don't hesitate to reach out. I'm always happy to discuss my work and explore new opportunities.
+I'm continuously learning and exploring new technologies, and I have a wide range of experiences from creating highly performant web applications to constructing complex animations. My passion lies in developing performant and user-friendly software, and I'm motivated by creating innovative solutions for my projects.
+
+## My Projects 
+
+***YelpCamp*** - https://github.com/powerd3v/yelpcamp
+
+YelpCamp is a web application that is a clone of popular Yelp website. It has the same features such as user registration, rating and reviews of camp sites, searching for camp sites, and much more. The technologies used to build this project include HTML/CSS, JavaScript, Node.js, MongoDB, and Bootstrap.
+
+***Personal Web Portfolio*** - https://github.com/powerd3v/personal-web-portfolio
+
+This project is a web portfolio showcasing the projects I've developed and other interesting side projects I've created. The technologies used to build this project include HTML/CSS, JavaScript, JQuery, and Bootstrap.
+
+***Online Resume Builder*** - https://github.com/powerd3v/online-resume-builder
+
+This project is an online resume builder where users can create professional resumes without the need for any technical knowledge. The technologies used to build this project include HTML/CSS, JavaScript, React, and Bootstrap.
+
+Feel free to contact me via email if you have any questions!
+
+Email: powerd3v@gmail.com
+
+You can also find me at my other profiles:
+
+[LinkedIn](http://linkedin.com/in/powerd3v)
+
+[Twitter](http://twitter.com/powerd3v)
+
+[Facebook](http://www.facebook.com/powerdev)
